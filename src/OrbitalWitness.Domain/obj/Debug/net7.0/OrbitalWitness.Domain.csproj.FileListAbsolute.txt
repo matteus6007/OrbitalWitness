@@ -1,0 +1,12 @@
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\bin\Debug\net7.0\OrbitalWitness.Domain.deps.json
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\bin\Debug\net7.0\OrbitalWitness.Domain.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\bin\Debug\net7.0\OrbitalWitness.Domain.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.csproj.AssemblyReference.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.AssemblyInfoInputs.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.AssemblyInfo.cs
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.csproj.CoreCompileInputs.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\refint\OrbitalWitness.Domain.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\OrbitalWitness.Domain.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Domain\obj\Debug\net7.0\ref\OrbitalWitness.Domain.dll

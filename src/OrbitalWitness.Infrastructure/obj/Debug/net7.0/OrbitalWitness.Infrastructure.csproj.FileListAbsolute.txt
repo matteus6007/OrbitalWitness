@@ -1,0 +1,17 @@
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Infrastructure.deps.json
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Infrastructure.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Infrastructure.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Application.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Domain.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Application.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\bin\Debug\net7.0\OrbitalWitness.Domain.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.csproj.AssemblyReference.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.AssemblyInfoInputs.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.AssemblyInfo.cs
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.csproj.CopyComplete
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\refint\OrbitalWitness.Infrastructure.dll
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\OrbitalWitness.Infrastructure.pdb
+C:\_source\OrbitalWitness\src\OrbitalWitness.Infrastructure\obj\Debug\net7.0\ref\OrbitalWitness.Infrastructure.dll
